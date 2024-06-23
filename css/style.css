@@ -927,11 +927,11 @@ body {
   display: flex;
   flex-direction: column;
 }
-footer {
+/* footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-}
+} */
 .mosmosak {
   background-color: #fafafa;
   border-radius: 10px;
