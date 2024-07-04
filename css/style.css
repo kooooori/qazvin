@@ -936,3 +936,7 @@ body {
   background-color: #fafafa;
   border-radius: 10px;
 }
+
+a{
+  text-decoration: none !important;
+}
